@@ -9,4 +9,4 @@ how to use rasa-nlu-trainer
     
     npm run build
     
-    npm start  
+    npm start  or  node server.js --port=8080 --source="/home/fengyu/rasa-nlu-trainer/src/state/testData.json"
